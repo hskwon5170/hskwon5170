@@ -6,6 +6,7 @@
 - 👀 부트캠프를 수료하며 함께 소통하며 성장하는 즐거움의 가치를 배웠습니다.
 - 📝맡은 일은 반드시 끝내야만 하는 성실함과 꼼꼼함을 지녔습니다.
 - ✉️ Email address : hskwon517@kakao.com
+- 🚀 개인 포트폴리오 배포 주소 : https://hsportfolio.shop
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hskwon5170&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/hskwon5170/github-readme-stats)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhskwon5170%2Fhit-counter&count_bg=%234071FF&title_bg=%23555555&icon=ghostery.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
