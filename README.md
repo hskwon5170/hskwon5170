@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=FrontEnd%20Developer%20HyungSeok🚀&fontSize=33&animation=blink)
 
-- 🧑🏻‍💻안녕하세요. 항상 사고하는 주니어 프론트엔드 개발자 지망생 권형석입니다.
+- 🧑🏻‍💻안녕하세요. 항상 사고하는 주니어 프론트엔드 개발자 권형석입니다.
 - 👀 부트캠프를 수료하며 함께 소통하며 성장하는 즐거움의 가치를 배웠습니다.
 - 📝맡은 일은 반드시 끝내야만 하는 성실함과 꼼꼼함을 지녔습니다.
 - ✉️ Email address : hskwon517@kakao.com
