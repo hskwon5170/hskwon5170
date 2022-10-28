@@ -1,4 +1,4 @@
-#  Welcome 👋
+<!-- #  Welcome 👋 -->
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=300&section=header&text=Frontend%20Developer%20HS.Kwon⚡️&fontSize=33&animation=fadeIn)
 
