@@ -1,6 +1,6 @@
 <!-- #  Welcome 👋 -->
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=300&section=header&text=Frontend%20Developer%20HS.Kwon⚡️&fontSize=33&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=300&section=header&text=Frontend%20Developer%20HS.Kwon👨‍💻&fontSize=33&animation=fadeIn)
 
 - 🧑🏻‍💻안녕하세요. 항상 사고하는 주니어 프론트엔드 개발자 권형석입니다.
 - 👫코딩 부트캠프를 수료하며 함께 소통하고 성장하는 즐거움의 가치를 배웠습니다.
