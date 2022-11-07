@@ -1,6 +1,6 @@
 <!-- #  Welcome 👋 -->
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=300&section=header&text=Frontend%20Developer%20HS.Kwon👨‍💻&fontSize=33&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:c2e59c,100:64b3f4&height=300&section=header&text=Frontend%20Developer%20HS.Kwon👨‍💻&fontSize=33&animation=fadeIn)
 
 
 - 🧑🏻‍💻  안녕하세요. 항상 사고하는 주니어 프론트엔드 개발자 권형석입니다.
