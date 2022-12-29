@@ -26,6 +26,14 @@
  ### Hosting
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### ETC
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+### e2e test
+![CYPRESS](https://img.shields.io/badge/cypress-%03C38E.svg?style=for-the-badge&logo=cypress&logoColor=white)
 
+
+### ETC
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+
+### Now studying...📚
+![Firebase](https://img.shields.io/badge/Firebase-FFCC38?style=for-the-badge&logo=Firebase&logoColor=white)
+![ReactNative](https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-6ECCFA?style=for-the-badge&logo=tailwindcss&logoColor=white)
