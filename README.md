@@ -37,3 +37,5 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCC38?style=flat-square&logo=Firebase&logoColor=white)
 ![ReactNative](https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-6ECCFA?style=flat-square&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-9876CD?style=flat-square&logo=redux&logoColor=white)
+
