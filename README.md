@@ -3,6 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:43cea2,100:185a9d&height=300&section=header&text=Hyungseok%20Kwon👨‍💻&fontSize=50&animation=fadeIn)
 
 
+<br/>
+
 
 -   안녕하세요. 항상 사고하는 주니어 프론트엔드 개발자 권형석입니다.
 -   부트캠프를 수료하며 함께 소통하고 성장하는 즐거움의 가치를 배웠습니다.
@@ -10,8 +12,12 @@
 -   Email address : hskwon517@gmail.com
 
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hskwon5170&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/hskwon5170/github-readme-stats)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhskwon5170%2Fhit-counter&count_bg=%234071FF&title_bg=%23555555&icon=ghostery.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
+<br/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hskwon5170&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/hskwon5170/github-readme-stats)
+
+
+
 
 
  ### Languages
@@ -38,4 +44,10 @@
 ![ReactNative](https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-6ECCFA?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-9876CD?style=flat-square&logo=redux&logoColor=white)
+
+<br/>
+<br/>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhskwon5170%2Fhit-counter&count_bg=%234071FF&title_bg=%23555555&icon=ghostery.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
