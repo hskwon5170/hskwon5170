@@ -10,7 +10,7 @@
 -   부트캠프를 수료하며 함께 소통하고 성장하는 즐거움의 가치를 배웠습니다.
 -   맡은 일은 반드시 끝내야만 하는 성실함과 꼼꼼함을 지녔습니다.
 -   Email address : hskwon517@gmail.com
-<!-- -   블로그 이전 준비중 >>>>>> https://hskwon5170.github.io/ -->
+-   My new blog >>>> https://hskwon5170.github.io/
 
 
 <br/>
