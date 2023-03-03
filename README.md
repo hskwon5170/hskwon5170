@@ -11,6 +11,7 @@
 -   맡은 일은 반드시 끝내야만 하는 성실함과 꼼꼼함을 지녔습니다.
 -   Email address : hskwon517@gmail.com
 <!-- -   blog >>>>>> https://velog.io/@hskwon517 -->
+blog >>>>>> 1️⃣https://velog.io/@hskwon517 2️⃣https://hskwon5170.github.io
 
 
 <br/>
