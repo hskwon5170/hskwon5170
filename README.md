@@ -10,8 +10,8 @@
 -   부트캠프를 수료하며 함께 소통하고 성장하는 즐거움의 가치를 배웠습니다.
 -   맡은 일은 반드시 끝내야만 하는 성실함과 꼼꼼함을 지녔습니다.
 -   Email address : hskwon517@gmail.com
-<!-- -   blog >>>>>> https://velog.io/@hskwon517 -->
-blog >>>>>> 1️⃣https://velog.io/@hskwon517 2️⃣https://hskwon5170.github.io
+-   blog >>>>>> https://velog.io/@hskwon517
+<!-- blog >>>>>> 1️⃣https://velog.io/@hskwon517 2️⃣https://hskwon5170.github.io -->
 
 
 <br/>
