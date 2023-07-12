@@ -1,9 +1,6 @@
 <!-- #  Welcome 👋 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:43cea2,100:185a9d&height=300&section=header&text=Hyungseok%20Kwon👨‍💻&fontSize=50&animation=fadeIn)
-
-
-<br/>
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:43cea2,100:185a9d&height=300&section=header&text=Hyungseok%20Kwon👨‍💻&fontSize=50&animation=fadeIn) -->
 
 <!-- 
 -   안녕하세요. 항상 사고하는 주니어 프론트엔드 개발자 권형석입니다.
@@ -13,15 +10,10 @@
 <!-- -   https://velog.io/@hskwon517 -->
 <!-- blog >>>>>> 1️⃣https://velog.io/@hskwon517 2️⃣https://hskwon5170.github.io -->
 
-
-<br/>
 <!-- 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hskwon5170&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/hskwon5170/github-readme-stats) -->
 
-
-
-
-
+# Things I can do
  ### Languages
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) 
  
