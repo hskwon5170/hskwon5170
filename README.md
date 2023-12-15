@@ -26,6 +26,7 @@
 ### 📚 Currently Studying & Interested In
 ![ReactNative](https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Jotai](https://img.shields.io/badge/Jotai-f7f7f7?style=flat-square) ![Jotai-Tanstack-Query](https://img.shields.io/badge/Jotai_Tanstack_Query-181b1e?style=flat-square)
+![Vite](https://img.shields.io/badge/Vite-8a75ff?style=flat-square&logo=vite&logoColor=white)
 
 
 
