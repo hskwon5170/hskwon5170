@@ -25,7 +25,7 @@
   ![CYPRESS](https://img.shields.io/badge/Cypress-%03C38E.svg?style=flat-square&logo=cypress&logoColor=white)
 ### 📚 Currently Studying & Interested In
 ![ReactNative](https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Jotai](https://img.shields.io/badge/Jotai-f7f7f7?style=flat-square)
+![Jotai](https://img.shields.io/badge/Jotai-f7f7f7?style=flat-square) ![Jotai-Tanstack-Query](https://img.shields.io/badge/Jotai_Tanstack_Query-181b1e?style=flat-square)
 
 
 
