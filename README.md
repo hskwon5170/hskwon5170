@@ -26,7 +26,6 @@
   ![CYPRESS](https://img.shields.io/badge/Cypress-%03C38E.svg?style=flat-square&logo=cypress&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 ### 📚 Currently Studying & Interested In
 ![ReactNative](https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Jotai-Tanstack-Query](https://img.shields.io/badge/Jotai_Tanstack_Query-181b1e?style=flat-square)
 ![FSD (Feature Sliced Design)](https://img.shields.io/badge/FSD_(Feature_Sliced_Design)-007ACC?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAybDkuOCA1djEwbC05LjggNS05LjgtNVY3TDEyIDJ6Ii8+PC9zdmc+&logoColor=white)
 ![Remix](https://img.shields.io/badge/Remix-000000?style=flat-square&logo=remix&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
