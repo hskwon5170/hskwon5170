@@ -20,33 +20,43 @@
 
 <p align="left">
   <!-- First row -->
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
+  <img height="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg"/>
+  <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"/>
+  <img height="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg"/>
+  <img height="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg"/>
+  <img height="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg"/>
   <br/>
   <!-- Second row -->
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"/>
+  <img height="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NextJS-Dark.svg"/>
  <img height="40" src="https://cdn.candycode.com/jotai/jotai-mascot.png"/>
   <img height="40" src="https://blog.kakaocdn.net/dn/14SHN/btsg1tFqmtp/VGLOZLfWKOuFVqGbsqTfnK/img.png"/>
- <img height="40" src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560"/>
+ <img height="40" src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg"/>
+  <img height="40" src="https://miro.medium.com/v2/resize:fit:1400/1*elhu-42TzQEdsFjKDbQhhA.png"/>
 <br/>
- <img height="40" src="https://miro.medium.com/v2/resize:fit:1400/1*elhu-42TzQEdsFjKDbQhhA.png"/>
  <img height="40" src="https://user-images.githubusercontent.com/43313420/105883661-64604380-6007-11eb-8cfa-45ff66b37fdb.png"/>
  <img height="40" src="https://raw.githubusercontent.com/sindresorhus/ky/HEAD/media/logo.svg"/>
+  <img height="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/GraphQL-Dark.svg"/>
+   <img height="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Supabase-Dark.svg"/>
+ <img height="40" src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.svg"/>
  <br/>
  <img height="40" src="https://www.svgrepo.com/show/374118/tailwind.svg"/>
- <img height="40" src="https://velog.velcdn.com/images/favorcho/post/2ede07b0-ef73-4e64-9eae-da22a9323841/image.png"/>
+ <img height="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Emotion-Dark.svg"/>
+  <img height="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/StyledComponents.svg"/>
  <img height="40" src="https://velog.velcdn.com/images/yesoryeseul/post/3ba5774b-7c7c-4061-b34e-220f1fc60bc5/image.png"/>
- <img height="40" src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg"/>
  <img height="40" src="https://www.svgrepo.com/show/354263/react-spring.svg"/>
+  <br/>
+   <img height="40" src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg"/>
  <img height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"/>
+  <img height="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Sentry.svg"/>
+  <img height="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg"/>
+   <img height="40" src="https://zod.dev/logo.svg"/>
+</p>
 
- <br/>
- <img height="40" src="https://avatars.githubusercontent.com/u/54469796?s=280&v=4"/>
- <img height="40" src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.svg"/>
- <img height="40" src="https://zod.dev/logo.svg"/>
+### 📚 Currently Studying & Interested In
+<p>
+  <img height="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg"/>
+  <img height="40" src="https://pbs.twimg.com/profile_images/1562960963359293446/rGjvMLR1_400x400.jpg"/>
+  <img height="40" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg"/>
 </p>
 
  <!--![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) <br/>
