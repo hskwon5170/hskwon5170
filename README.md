@@ -15,10 +15,41 @@
 
 <!-- ![](./profile-3d-contrib/profile-night-green.svg) -->
 
-## Things I can do
-### ✔ Stack
+<!--## Things I can do -->
+### ✔ Skills
 
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) <br/>
+<p align="left">
+  <!-- First row -->
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
+  <br/>
+  <!-- Second row -->
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"/>
+ <img height="40" src="https://cdn.candycode.com/jotai/jotai-mascot.png"/>
+  <img height="40" src="https://blog.kakaocdn.net/dn/14SHN/btsg1tFqmtp/VGLOZLfWKOuFVqGbsqTfnK/img.png"/>
+ <img height="40" src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560"/>
+<br/>
+ <img height="40" src="https://miro.medium.com/v2/resize:fit:1400/1*elhu-42TzQEdsFjKDbQhhA.png"/>
+ <img height="40" src="https://user-images.githubusercontent.com/43313420/105883661-64604380-6007-11eb-8cfa-45ff66b37fdb.png"/>
+ <img height="40" src="https://raw.githubusercontent.com/sindresorhus/ky/HEAD/media/logo.svg"/>
+ <br/>
+ <img height="40" src="https://www.svgrepo.com/show/374118/tailwind.svg"/>
+ <img height="40" src="https://velog.velcdn.com/images/favorcho/post/2ede07b0-ef73-4e64-9eae-da22a9323841/image.png"/>
+ <img height="40" src="https://velog.velcdn.com/images/yesoryeseul/post/3ba5774b-7c7c-4061-b34e-220f1fc60bc5/image.png"/>
+ <img height="40" src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg"/>
+ <img height="40" src="https://www.svgrepo.com/show/354263/react-spring.svg"/>
+ <img height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"/>
+
+ <br/>
+ <img height="40" src="https://avatars.githubusercontent.com/u/54469796?s=280&v=4"/>
+ <img height="40" src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.svg"/>
+ <img height="40" src="https://zod.dev/logo.svg"/>
+</p>
+
+ <!--![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) <br/>
 ![React](https://img.shields.io/badge/React-%2320232a.svg?&logo=react&logoColor=%2361DAFB) ![Next.js 14](https://img.shields.io/badge/Next.js_14-black?style=flat-square&logo=next.js&logoColor=white)![Jotai](https://img.shields.io/badge/Jotai-f7f7f7?style=flat-square)   ![Recoil](https://img.shields.io/badge/Recoil-007af4.svg??style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBpZD0iQ2FscXVlXzEiIGRhdGEtbmFtZT0iQ2FscXVlIDEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDI1NS4yMSA2MjMuOTEiPjxkZWZzPjxzdHlsZT4uY2xzLTF7ZmlsbDp3aGl0ZX08L3N0eWxlPjwvZGVmcz48cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Im03NC42MiAyNzcuNDYgMS4yNC0uMTMgMzQuNzgtMy4yOC01My40Ny01OC42NkE5Ni40NyA5Ni40NyAwIDAgMSAzMiAxNTAuM0gzYTEyNS4zIDEyNS4zIDAgMCAwIDMyLjggODQuNTdaTTE3Ny4xMyAzNDdsLTM2IDMuNCA1My4zMiA1OC41MUE5Ni40MSA5Ni40MSAwIDAgMSAyMTkuNjMgNDc0aDI4LjkyYTEyNS4yOCAxMjUuMjggMCAwIDAtMzIuNzYtODQuNTdaIi8+PHBhdGggY2xhc3M9ImNscy0xIiBkPSJNMjUzLjY5IDIzMS42OGMtNi4zMy0zMS4zLTMwLjg5LTU0LjA5LTYyLjU3LTU4LjA3bC02LjM1LS43OWE0OS42MSA0OS42MSAwIDAgMS00My4zNS00OS4xM3YtMjBhNTIuNzUgNTIuNzUgMCAxIDAtMjguOTEtLjM2djIwLjM4YTc4LjU2IDc4LjU2IDAgMCAwIDY4LjY1IDc3LjgybDYuMzYuOGMyMy4yNCAyLjkyIDM0Ljc4IDIwIDM3LjgzIDM1LjFzLS45MyAzNS4zMi0yMS4yMiA0N2E3My44MSA3My44MSAwIDAgMS0zMC4wNiA5LjYybC05NS42NiA5YTEwMi40NSAxMDIuNDUgMCAwIDAtNDEuOCAxMy4zOEM5IDMzMi40NS00LjgxIDM2MyAxLjUyIDM5NC4yOXMzMC44OSA1NC4wOCA2Mi41NyA1OC4wNmw2LjM1LjhhNDkuNiA0OS42IDAgMCAxIDQzLjM1IDQ5LjEydjE4YTUyLjc1IDUyLjc1IDAgMSAwIDI4LjkxLjI2di0xOC4yNmE3OC41NSA3OC41NSAwIDAgMC02OC42NS03Ny44MWwtNi4zNi0uOGMtMjMuMjQtMi45Mi0zNC43OC0yMC4wNS0zNy44My0zNS4xMXMuOTMtMzUuMzIgMjEuMjItNDdhNzMuNjggNzMuNjggMCAwIDEgMzAuMDYtOS42M2w5NS42Ni05YTEwMi40NSAxMDIuNDUgMCAwIDAgNDEuOC0xMy4zOGMyNy42NS0xNi4wMiA0MS40LTQ2LjU0IDM1LjA5LTc3Ljg2WiIvPjwvc3ZnPg==&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-f46d2d?style=flat-square) <br/>
 ![React-Query](https://img.shields.io/badge/React--Query-ef4444?style=flat-square&logo=react-query&logoColor=white) <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white"/> ![Ky](https://img.shields.io/badge/Ky-CD3B1E?style=flat-square&logo=ky&logoColor=white) ![ApolloClient](https://img.shields.io/badge/-ApolloClient-311C87?style=flat-square&logo=apollo-graphql)   ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) <br/>
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) <br/>
