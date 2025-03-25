@@ -50,9 +50,13 @@
   <img height="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Sentry.svg"/>
   <img height="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg"/>
    <img height="40" src="https://zod.dev/logo.svg"/>
+  <br/>
+  <img height="40" src="https://vitest.dev/logo.svg"/>
+  <img height="40" src="https://blog.kakaocdn.net/dn/cOGTFs/btrFVh8iLT2/hmUtMPzqwQxWvXVnSLKj5k/img.png"/>
+  <img height="40" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/cypress-icon-moigrz5nimpd7rsob0bisu.png/cypress-icon-pg9bdlubveoefqouilbg.png?_a=DAJFJtWIZAAC"/>
 </p>
 
-### 📚 Currently Studying & Interested In
+<!-- ### 📚 Currently Studying & Interested In
 <p>
   <img height="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg"/>
   <img height="40" src="https://pbs.twimg.com/profile_images/1562960963359293446/rGjvMLR1_400x400.jpg"/>
