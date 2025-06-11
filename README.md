@@ -49,7 +49,7 @@
  <img height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"/>
   <img height="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Sentry.svg"/>
   <img height="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg"/>
-   <img height="40" src="https://zod.dev/logo.svg"/>
+   <img height="40" src="https://zod.dev/logo/logo-glow.png"/>
   <br/>
   <img height="40" src="https://vitest.dev/logo.svg"/>
   <img height="40" src="https://blog.kakaocdn.net/dn/cOGTFs/btrFVh8iLT2/hmUtMPzqwQxWvXVnSLKj5k/img.png"/>
