@@ -47,7 +47,7 @@
   <br/>
    <img height="40" src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg"/>
  <img height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"/>
-  <img height="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Sentry.svg"/>
+  <img height="40" src="https://d160vv5chasrgm.cloudfront.net/Sentry.svg"/>
   <img height="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg"/>
    <img height="40" src="https://zod.dev/logo/logo-glow.png"/>
   <br/>
