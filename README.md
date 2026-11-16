@@ -1,3 +1,14 @@
+<div align="center">
+  <p><a href="https://walkmile.kr"><img src="./walkie-path.webp" width="720" alt="주황색 산책길을 한 바퀴 걷는 워크마일 마스코트 워키" /></a></p>
+  <p>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./walkmile-logo-dark.svg" />
+      <img src="./walkmile-logo-light.svg" width="440" alt="WalkMile" />
+    </picture>
+  </p>
+  <p>걷기와 식단 기록의 모든 것, <a href="https://walkmile.kr">walkmile.kr</a></p>
+</div>
+
 <!-- #  Welcome 👋 -->
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:43cea2,100:185a9d&height=300&section=header&text=Hyungseok%20Kwon👨‍💻&fontSize=50&animation=fadeIn) -->
